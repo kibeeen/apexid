@@ -1,0 +1,75 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-11-10 07:35:06
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.8
+WORDPRESS:	4.8
+PHP INFO:	5.6.28 | SAPI: apache2handler
+SERVER:		Apache/2.4.23 (Win32) OpenSSL/1.0.2h PHP/5.6.28 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 28MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Is Supported 
+TABLES: total:20 | filtered:0 | create:20 
+FILTERED: [] 
+SQL CREATED: 20171110_apexid_bf2d7a8136905dd19284171110073415_database.sql 
+SQL FILE SIZE: 2.03MB (2124113) 
+SQL FILE TIME: 2017-11-10 07:35:07 
+SQL RUNTIME: 1.38 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  C:/xampp/htdocs/cms/apexid 
+ARCHIVE FILE: 20171110_apexid_bf2d7a8136905dd19284171110073415_archive.zip 
+FILTERS: *OFF* 
+DIRS: not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	133.6MB 
+STATS:	Dirs 985 | Files 9,734 
+SQL ADDED: 20171110_apexid_bf2d7a8136905dd19284171110073415_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 10719
+    [filename] => C:\xampp\htdocs\cms\apexid\wp-snapshots\tmp\20171110_apexid_bf2d7a8136905dd19284171110073415_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 86.28MB 
+ARCHIVE RUNTIME: 158.41 sec. 
+MEMORY STACK: 31.25MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [C:/xampp/htdocs/cms/apexid/wp-snapshots/tmp/20171110_apexid_bf2d7a8136905dd19284171110073415_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 2.03MB 
+Installer File: 428.41KB 
+Archive File: 86.28MB  
+
+********************************************************************************
+RECORD ID:[2]
+TOTAL PROCESS RUNTIME: 167.49 sec.
+PEAK PHP MEMORY USED: 33.5MB
+DONE PROCESSING => 20171110_apexid 2017-11-10 07:37:53
+ 
